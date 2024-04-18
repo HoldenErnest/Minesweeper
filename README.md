@@ -1,4 +1,4 @@
-# Minesweeper
+# Minesweeper (circa 2019)
 your standard minesweeper built from scratch using Java and JFrame
 
 Right click to place flags, Left click to make a guess
